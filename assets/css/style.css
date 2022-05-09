@@ -1142,6 +1142,15 @@ body {
   .work-title > a { 
     height: 4.8em;
   }
+
+  .team-shape-1 { 
+    max-width: 300px;
+  }
+
+  .team-shape-2 { 
+    max-width: 300px;
+  }
+
 }
 
 @media (min-width: 1200px) {
